@@ -36,7 +36,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
 
     <!-- Optional JavaScript; choose one of the two! -->
 
